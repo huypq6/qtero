@@ -1,0 +1,7 @@
+INCLUDEPATH += debug
+
+HEADERS += \
+	debug\rs_debug.h
+	
+SOURCES += \
+	debug\rs_debug.cpp

@@ -1,0 +1,7 @@
+INCLUDEPATH += window
+
+HEADERS += \
+        window\mainwindow.h
+
+SOURCES += \
+        window\mainwindow.cpp
